@@ -167,7 +167,6 @@ var animals = [
   "DartFrog",
   "Deer",
   "Degus",
-  "Dik-Dik",
   "Dingo",
   "Dog",
   "DogfishShark",
