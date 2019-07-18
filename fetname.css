@@ -1,9 +1,6 @@
 body {
   background-color: #1B1B1B;
   display: table;
-  position: absolute;
-  height: 100%;
-  width: 100%;
 }
 
 #fetname_textfield {
