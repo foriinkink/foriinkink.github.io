@@ -2,7 +2,7 @@ body {
   background-color: #1B1B1B;
 }
 
-span {
+#fetname_textfield {
   background-color: black;
   color: #cc0000;
   font-weight: bold;
@@ -11,13 +11,16 @@ span {
   font-size: 30px;
 }
 
-div {
-  padding: 20px;
-  text-align: center;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+#container {
+    display: flex;              
+    flex-direction: column;    
+    justify-content: center;  
+    align-items: center;       
+}
+
+.box {
+    padding: 5px;
+    text-align: center;
 }
 
 input {
