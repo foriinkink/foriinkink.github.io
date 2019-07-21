@@ -26,5 +26,4 @@ SlothOrgasmControlSlut
 ## Create your own here!
 https://foriinkink.github.io/
 
-**Source code here:**  
-https://github.com/foriinkink/foriinkink.github.io
+*(Source code here: https://github.com/foriinkink/foriinkink.github.io)*
