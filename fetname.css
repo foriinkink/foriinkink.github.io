@@ -26,6 +26,11 @@ body {
   text-align: center;
 }
 
+.checkboxes {
+  color: white;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+}
+
 input {
   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
   font-size: 14px;
