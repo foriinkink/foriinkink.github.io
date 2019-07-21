@@ -1,9 +1,13 @@
 # FetLife Username Generator
+## Create your own here!
+https://foriinkink.github.io/
+
+## About
 This is a username generator for https://fetlife.com
 
 It generates usernames by optionally combining:
 
-* Adjectives (ie "Curious", "Obedient", "Tasty")
+* Adjectives (ie "Curious", "Obedient", "Lucky")
 * Body Adjectives (ie "Stout", "LongLegged")
 * Fetish (ie "Whips", "Handcuffs", "Spanking")
 * Kink/BDSM Role (ie "Mistress", "Dominant", "Switch"
@@ -22,8 +26,5 @@ SadomasochistCombativeScrawnyThreesomesOMFG
 GrumpySoftBondageCountess  
 WorriedShrunkenChastityDevicesDomme  
 SlothOrgasmControlSlut  
-
-## Create your own here!
-https://foriinkink.github.io/
 
 *(Source code here: https://github.com/foriinkink/foriinkink.github.io)*
