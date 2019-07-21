@@ -101,7 +101,7 @@ var fetishes = [
   "Enemas",
   "CockWorship",
   "CostumesAndDressingUp",
-]
+];
 
 var animals = [
   "Aardvark",
@@ -117,7 +117,7 @@ var animals = [
   "Armadillo",
   "Arthropod",
   "AsianElephant",
-  "Aye-Aye",
+  "AyeAye",
   "Baboon",
   "Badger",
   "Bandicoot",
@@ -497,6 +497,7 @@ roles = [
   "Prince",
   "Toilet",
   "Pig",
+  "Couple",
 ];
 
 var adjectives = [
@@ -712,7 +713,7 @@ var adjectives = [
   "Passionate",
   "Patient",
   "Perfect",
-  "Persistent	",
+  "Persistent",
   "Philosophical",
   "Pioneering",
   "Placid",
