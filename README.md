@@ -1,4 +1,4 @@
-# FetLife Name Generator
+# FetLife Username Generator
 This is a username generator for https://fetlife.com
 
 It generates usernames by optionally combining:
