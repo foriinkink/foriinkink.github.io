@@ -12,7 +12,7 @@ It generates usernames by optionally combining:
 * Fetish (ie "Whips", "Handcuffs", "Spanking")
 * Kink/BDSM Role (ie "Mistress", "Dominant", "Switch"
 * Internet Slang (ie "LOL", "4U", "TLDR")
-* A checkbox to randomzie the order of all the generated words
+* A checkbox to randomize the order of all the generated words
 * Each element (Adjectives, Role, Fetish, etc) of the generator is optional; controlled by checkboxes
 
 **Example output:**
