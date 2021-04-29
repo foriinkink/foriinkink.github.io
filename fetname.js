@@ -1412,6 +1412,24 @@ var body_adjectives = [
   "Wobbly",
 ];
 
+var dndClasses =[
+  "Barbarian",
+	"Bard",
+  "Cleric",
+  "Druid",
+	"Fighter",
+	"Monk",
+	"Paladin",
+	 "Ranger",
+	 "Rogue",
+	 "Sorcerer",
+	"Warlock",
+	"Wizard",
+	]
+
+
+
+
 function CapitlizeString(word) {
   return word.charAt(0).toUpperCase() + word.slice(1);
 }
@@ -1458,6 +1476,11 @@ function fet_name_maker() {
   if (document.getElementById("inet_slang").checked) {
     var random_inet_slang = getArrayRandom(inet_slang);
     fet_name_array.splice(fet_name_array.indexOf(fet_name_array[Math.floor(Math.random() * fet_name_array.length)]), 0, random_inet_slang);//
+  }
+  if (document.getElementById("dndclasses").checked){
+    var random_dndclass = getArrayRandom(dndClasses);
+    var random_dndclass_upper = CapitlizeString(random_dndclass);
+    fet_name_array.push(random_dndclass_upper);
   }
   
   if (document.getElementById("random_order").checked) {
